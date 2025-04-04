@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About - Dr. Deepak M D</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Dr. Deepak M D</h1>
+    <nav>
+      <a href="home.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="index.html">Feedback</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>About Me</h2>
+    <p>I am an academic with 14+ years of experience in Computer Science. I specialize in Image Processing, Machine Learning, and Compressed Sensing. I currently serve as Assistant Professor at GITAM University.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Dr. Deepak M D | All rights reserved.</p>
+    <script src="script.js"></script>
+  </footer>
+</body>
+</html>
